@@ -14,7 +14,7 @@ A Node/Express web server receiving data from the Raspberry Pi, storing it in a 
 
 <https://github.com/riyadattani/weather_station_server>
 
-## Single JS page app retrieving and displaying the data
+## Single page JS app retrieving and displaying the data
 
 A JavaScript single-page web app collecting the data from the server and presenting it in graph form, and pulling in data from a public weather API as well
 
