@@ -8,7 +8,7 @@ A python app reading data from a weather sensor on a Raspberry Pi and sending it
 
 <https://github.com/Hives/weather-station-rpi>
 
-## Node.js/Express API
+## Node/Express/Mongo API
 
 A Node/Express web server receiving data from the Raspberry Pi, storing it in a Mongo database, and making it available via API
 
